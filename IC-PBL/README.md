@@ -1,6 +1,4 @@
-# 우리도 껴조 DataBase_ICPBL
-
-## 실행
+# 우리도껴조 DataBase_ICPBL
 
 ### 최초 실행
 
