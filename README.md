@@ -7,6 +7,8 @@
 `Django` `OracleDB` `HTML/CSS` `JavaScript`
 <br>
 
+### 최초 실행
+
 ```shell
 python manage.py makemigrations
 
