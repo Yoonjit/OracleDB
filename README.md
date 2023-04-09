@@ -6,3 +6,17 @@
 - 기술스택 <br>
 `Django` `OracleDB` `HTML/CSS` `JavaScript`
 <br>
+
+```shell
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py createsuperuser
+```
+
+### 서버 실행
+
+```shell
+python manage.py runserver
+```
